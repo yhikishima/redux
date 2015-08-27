@@ -1,2 +1,2 @@
 # redux
-redux
+reduxを学んでみる
