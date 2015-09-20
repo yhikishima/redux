@@ -6,3 +6,5 @@ es6 + react + redux  で機能を作ってみる。
 [JavaScript Function Redux (+ ES6!)](http://jaysoo.ca/2014/10/30/javascript-function-redux/)
 
 [Redux初めて触って色々わかったメモ](http://qiita.com/inuscript/items/8dc5af052a858023287f)
+
+[チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html)
